@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729257885 source:c:\users\96650\onedrive\desktop\lab4 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1729320380 source:c:\users\96650\onedrive\desktop\iti c\lab4 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729167801 source:c:\users\96650\onedrive\desktop\magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1729266664 source:c:\users\96650\onedrive\desktop\iti c\magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
